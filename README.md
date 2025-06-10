@@ -22,7 +22,6 @@ La implementación del Bubble Sort nos mostró de manera tangible su ineficienci
 La  Búsqueda Lineal y la Búsqueda Binaria nos mostraron la eficiencia exponencial que se gana al trabajar con datos ordenados. La diferencia en los tiempos de ejecución fue evidente en las pruebas, subrayando por qué la preparación de datos es tan crucial para la optimización.
 
 ## Link del video subido a youtube
-https://youtu.be/7pGTM5Hi-QQ
-=======
+https://youtu.be/7pGTM5Hi-QQ=======
 # ProyectoIntegradorBusquedayOrdenamiento
 >>>>>>> 0fbc164a6288451fcb39ffccfac466cef35d326b
