@@ -1,3 +1,7 @@
+
+git add README.md
+git commit
+<<<<<<< HEAD
 ## Integrantes del Equipo
 
 Juan Ignacio Villalba ( Comisión 15)
@@ -19,3 +23,6 @@ La  Búsqueda Lineal y la Búsqueda Binaria nos mostraron la eficiencia exponenc
 
 ## Link del video subido a youtube
 https://youtu.be/7pGTM5Hi-QQ
+=======
+# ProyectoIntegradorBusquedayOrdenamiento
+>>>>>>> 0fbc164a6288451fcb39ffccfac466cef35d326b
